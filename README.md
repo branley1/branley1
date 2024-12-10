@@ -1,9 +1,20 @@
 I'm a Computer Science major with Cognitive Science minor at Swarthmore College, graduating in May, 2025.
 
-I am interested in the following:
-- Full-stack (Frontend or Backend) development
-- iOS/Android development
-- Fintech
-- ML/AI
+### 📚 Interests:
+ - Full-stack (Frontend or Backend) development
+ - iOS/Android development
+ - Fintech
+ - Machine Learning & Artificial Intelligence
+ - Cloud Computing & DevOps
+ - Human-Computer Interaction (HCI)
+ - Robotics (No projects yet, but greatly piques my interest)
+ - IoT (No projects yet, but greatly piques my interest)
 
-I intend to use natural language processing to identify knowledge implicit in large collections of text and apply this knowledge to build innovative applications. This way, I want to finesse human-computer interactions and create a proper understanding between machines and humans.
+### 🖥️  Portfolio: https://bmmasi.com
+
+🪴 I'm currently learning deep learning and machine learning techniques, including fine-tuning local LLMs to align them with specific goals and generating Spotify playlists based on user prompts.
+
+🪴 My passion lies in applying NLP to uncover hidden patterns and insights within large text datasets, enabling the creation of human-centered applications. My ultimate goal is to enhance human-computer interactions by bridging the gap between machines and humans, fostering intuitive and meaningful connections.
+
+### 🚀 Collaboration: 
+Check out my projects on GitHub (username: branley1). Let's create something impactful!
