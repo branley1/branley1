@@ -15,7 +15,7 @@
   <img src="https://komarev.com/ghpvc/?username=branley1&style=flat-square&color=blue" alt=""/>
 </div>
 
-### Hi there 👋 My name is Branley Chikwanyi Mmasi.
+### Hi there 👋 My name is Branley Mmasi.
 - 🔭 I am exploring deep learning and machine learning techniques by fine-tuning local LLMs to align them with specific goals to familiarize myself with basic concepts.
 - 🌱 I’m learning OCaml in my Compilers class for functional programming, and exploring JUCE for audio plugin development.
 - 👯 I’m looking to collaborate on anything related to designing interactive websites, iOS mobile applications, and tools.
