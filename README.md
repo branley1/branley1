@@ -16,7 +16,7 @@
 </div>
 
 ### Hi there 👋 My name is Branley Chikwanyi Mmasi.
-- 🔭 I'm exploring deep learning and machine learning techniques by fine-tuning local LLMs to align them with specific goals to familiarize myself with basic concepts.
+- 🔭 I am exploring deep learning and machine learning techniques by fine-tuning local LLMs to align them with specific goals to familiarize myself with basic concepts.
 - 🌱 I’m learning OCaml in my Compilers class for functional programming, and exploring JUCE for audio plugin development.
 - 👯 I’m looking to collaborate on anything related to designing interactive websites, iOS mobile applications, and tools.
 - 📫 How to reach me: [![Linkedin Badge](https://img.shields.io/badge/LinkedIn-blue?style=flat&logo=Linkedin&logoColor=white)](https://www.linkedin.com/in/branley1/)
