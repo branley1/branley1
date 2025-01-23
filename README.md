@@ -17,7 +17,7 @@
 
 ### Hi there 👋 My name is Branley Mmasi.
 - 🔭 I'm diving into deep learning and machine learning by fine-tuning local LLMs, working on real-world applications, and picking up key concepts along the way.
-- 🌱In my Compilers class, I'm learning OCaml and getting hands-on with functional programming. I'm also exploring JUCE to develop audio plugins—exciting stuff!
+- 🌱 In my Compilers class, I'm learning OCaml and getting hands-on with functional programming. I'm also exploring JUCE to develop audio plugins—exciting stuff!
 - 👯 I love collaborating on open source projects, especially those that involve creating interactive websites, iOS apps, or anything that puts users first.
 - 📫 How to reach me: [![Linkedin Badge](https://img.shields.io/badge/LinkedIn-blue?style=flat&logo=Linkedin&logoColor=white)](https://www.linkedin.com/in/branley1/)
 - 🖥️ Portfolio: [<img src="https://github.com/branley1/portfolio-react/blob/main/public/portfolio-logo.png" title="portfolio-logo" alt="Portfolio logo" width="20" height="20"/>&nbsp; Bmmasi portal](https://bmmasi.com)
