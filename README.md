@@ -80,7 +80,7 @@
 
 <!-- Spotify current listen -->
 <h1 align="center">
-  What is Branley listening to? 🎧
+  Current Mood 🎧
   <a><i style="font-size: 10px" class="bx bx-tada-hover">
                     <img src="https://spotify-github-profile.kittinanx.com/api/view.svg?uid=hvoh3gwfkd3h64bzeal1fejmu&cover_image=true&theme=default&show_offline=true&background_color=121212&interchange=true&bar_color=53b14f&bar_color_cover=false)](https://spotify-github-profile.kittinanx.com/api/view.svg?uid=hvoh3gwfkd3h64bzeal1fejmu&redirect=true)" align="middle"></img>
                     </i>
