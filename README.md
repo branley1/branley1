@@ -76,7 +76,7 @@
 
 ![](http://github-profile-summary-cards.vercel.app/api/cards/profile-details?username=branley1&theme=moltack)
 ![](http://github-profile-summary-cards.vercel.app/api/cards/stats?username=branley1&theme=github_dark)
-![](http://github-profile-summary-cards.vercel.app/api/cards/productive-time?username=branley1&theme=moltack&utcOffset=8)
+![](http://github-profile-summary-cards.vercel.app/api/cards/productive-time?username=branley1&theme=github_dark&utcOffset=8)
 ![](http://github-profile-summary-cards.vercel.app/api/cards/repos-per-language?username=branley1&theme=github_dark)
 ![](http://github-profile-summary-cards.vercel.app/api/cards/most-commit-language?username=branley1&theme=github_dark)
 
