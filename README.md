@@ -68,23 +68,24 @@
     <td>
     <!-- GitHub top language stats -->
       <a href="https://github.com/anuraghazra/github-readme-stats">
-        <img src="https://github-readme-stats.vercel.app/api/top-langs/?username=branley1" alt="Top Languages">
+        <img src="https://github-readme-stats.vercel.app/api/top-langs/?username=branley1&theme=github_dark&hide_border=true" alt="Top Languages">
       </a>
     </td>
   </tr>
 </table>
 
-![](http://github-profile-summary-cards.vercel.app/api/cards/profile-details?username=branley1&theme=algolia)
-![](http://github-profile-summary-cards.vercel.app/api/cards/stats?username=branley1&theme=algolia)
-![](http://github-profile-summary-cards.vercel.app/api/cards/productive-time?username=branley1&theme=algolia&utcOffset=8)
-![](http://github-profile-summary-cards.vercel.app/api/cards/repos-per-language?username=branley1&theme=algolia)
-![](http://github-profile-summary-cards.vercel.app/api/cards/most-commit-language?username=branley1&theme=algolia)
+![](http://github-profile-summary-cards.vercel.app/api/cards/profile-details?username=branley1&theme=moltack)
+![](http://github-profile-summary-cards.vercel.app/api/cards/stats?username=branley1&theme=github_dark)
+![](http://github-profile-summary-cards.vercel.app/api/cards/productive-time?username=branley1&theme=moltack&utcOffset=8)
+![](http://github-profile-summary-cards.vercel.app/api/cards/repos-per-language?username=branley1&theme=github_dark)
+![](http://github-profile-summary-cards.vercel.app/api/cards/most-commit-language?username=branley1&theme=github_dark)
 
 <!-- Spotify current listen -->
-<h1 align="center">
+<h2 align="center">
   Current Mood 🎧
+  
   <a><i style="font-size: 10px" class="bx bx-tada-hover">
                     <img src="https://spotify-github-profile.kittinanx.com/api/view.svg?uid=hvoh3gwfkd3h64bzeal1fejmu&cover_image=true&theme=default&show_offline=true&background_color=121212&interchange=true&bar_color=53b14f&bar_color_cover=false)](https://spotify-github-profile.kittinanx.com/api/view.svg?uid=hvoh3gwfkd3h64bzeal1fejmu&redirect=true)" align="middle"></img>
                     </i>
                   </a>
-</h1>
+</h2>
