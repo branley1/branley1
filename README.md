@@ -15,11 +15,12 @@
   <img src="https://komarev.com/ghpvc/?username=branley1&style=flat-square&color=blue" alt=""/>
 </div>
 
-### Hi there 👋 My name is Branley Mmasi.
-- 🔭 I'm diving into deep learning and machine learning by building an AI chatbot using fine-tuned local LLMs, working on real-world applications and picking up key concepts along the way.
-- 🌱 In my Compilers class, I'm learning OCaml and getting hands-on with functional programming. I'm also exploring JUCE to develop audio plugins—exciting stuff!
-- 👯 I love collaborating on open source projects, especially those that involve creating interactive websites, iOS apps, or anything that puts users first.
-- 📫 How to reach me: [![Linkedin Badge](https://img.shields.io/badge/LinkedIn-blue?style=flat&logo=Linkedin&logoColor=white)](https://www.linkedin.com/in/bmmasi1/)
+### Hi, I'm Branley Mmasi!
+
+- 🔭 Currently building a full-stack chat application powered by fine-tuned local LLMs. It’s my hands-on way of exploring deep learning and AI infrastructure.
+- 🌱 I recently explored OCaml in my Compilers course, and dabbled with JUCE for crafting audio plugins.
+- 👯 I enjoy collaborating on open source—especially projects that focus on interactivity, usability, or cool UIs across web, iOS, and beyond.
+- 📫 Reach out: [![Linkedin Badge](https://img.shields.io/badge/LinkedIn-blue?style=flat&logo=Linkedin&logoColor=white)](https://www.linkedin.com/in/bmmasi1/)
 - 🖥️ Portfolio: [<img src="https://github.com/branley1/portfolio-react/blob/main/public/portfolio-logo.png" title="portfolio-logo" alt="Portfolio logo" width="20" height="20"/>&nbsp; Bmmasi portal](https://bmmasi.com)
 
 ---
