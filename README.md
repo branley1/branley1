@@ -55,10 +55,10 @@
 
 ---
 
-### 🔥 My Stats:
+### My Stats:
 
 <table>
-  <tr>
+  <tr">
     <td>
     <!-- GitHub streak stats -->
       <a href="https://git.io/streak-stats">
@@ -68,17 +68,17 @@
     <td>
     <!-- GitHub top language stats -->
       <a href="https://github.com/anuraghazra/github-readme-stats">
-        <img src="https://github-readme-stats.vercel.app/api/top-langs/?username=branley1&theme=github_dark&hide_border=true" alt="Top Languages">
+        <img src="https://github-readme-stats.vercel.app/api/top-langs/?username=branley1&theme=github_dark&hide_border=true&layout=compact" alt="Top Languages">
       </a>
     </td>
   </tr>
 </table>
 
-![](http://github-profile-summary-cards.vercel.app/api/cards/profile-details?username=branley1&theme=moltack)
 ![](http://github-profile-summary-cards.vercel.app/api/cards/stats?username=branley1&theme=github_dark)
 ![](http://github-profile-summary-cards.vercel.app/api/cards/productive-time?username=branley1&theme=github_dark&utcOffset=8)
 ![](http://github-profile-summary-cards.vercel.app/api/cards/repos-per-language?username=branley1&theme=github_dark)
 ![](http://github-profile-summary-cards.vercel.app/api/cards/most-commit-language?username=branley1&theme=github_dark)
+![](http://github-profile-summary-cards.vercel.app/api/cards/profile-details?username=branley1&theme=github_dark)
 
 <!-- Spotify current listen -->
 <h2 align="center">
