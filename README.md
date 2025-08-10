@@ -1,6 +1,6 @@
 <!-- The "Hello there" greeting -->
 <p align="center">
-  <img src="https://capsule-render.vercel.app/api?type=waving&height=130&color=gradient&text=Hello%20there%20😁&reversal=false&fontAlignY=34"/>
+  <img src="https://capsule-render.vercel.app/api?type=waving&height=130&color=gradient&text=Hiiii!%20😁&reversal=false&fontAlignY=34"/>
 </p>
 
 <!-- LinkedIn badge that redirects to my official LinkedIn profile -->
@@ -83,7 +83,7 @@
 
 <!-- Spotify current listen -->
 <h2 align="center">
-  Current Mood 🎧
+  Jam with Me! 🎧
   
   <a><i style="font-size: 10px" class="bx bx-tada-hover">
                     <img src="https://spotify-github-profile.kittinanx.com/api/view.svg?uid=hvoh3gwfkd3h64bzeal1fejmu&cover_image=true&theme=default&show_offline=true&background_color=121212&interchange=true&bar_color=53b14f&bar_color_cover=false)](https://spotify-github-profile.kittinanx.com/api/view.svg?uid=hvoh3gwfkd3h64bzeal1fejmu&redirect=true)" align="middle"></img>
