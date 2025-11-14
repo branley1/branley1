@@ -25,12 +25,11 @@
 
 ### Hi, I'm Branley Mmasi!
 
-- 🔭 Currently building a full-stack chat application powered by fine-tuned local LLMs. It’s my hands-on way of exploring deep learning and AI infrastructure.
-- 🌱 I recently explored OCaml in my Compilers course, and dabbled with JUCE for crafting audio plugins.
-- 👯 I enjoy collaborating on open source—especially projects that focus on interactivity, usability, or cool UIs across web, iOS, and beyond.
-- 📫 Reach out: [![Linkedin Badge](https://img.shields.io/badge/LinkedIn-blue?style=flat&logo=Linkedin&logoColor=white)](https://www.linkedin.com/in/bmmasi1/)
-- 🖥️ Portfolio: [<img src="https://github.com/branley1/portfolio-react/blob/main/public/portfolio-logo.png" title="portfolio-logo" alt="Portfolio logo" width="20" height="20"/>&nbsp; Bmmasi portal](https://bmmasi.com)
-
+- I build full-stack systems and work close to the metal on AI, compilers, and interactive tools.
+- Building a local LLM chat stack end-to-end.
+- Experience with OCaml (compilers) and JUCE (audio tooling).
+- Interested in open-source work that sharpens UX, performance, or dev experience.
+- [Portfolio: <img src="https://github.com/branley1/portfolio-react/blob/main/public/portfolio-logo.png" title="portfolio-logo" alt="Portfolio logo" width="20" height="20"/>&nbsp;](https://bmmasi.com) • [![Linkedin Badge](https://img.shields.io/badge/LinkedIn-blue?style=flat&logo=Linkedin&logoColor=white)](https://www.linkedin.com/in/bmmasi1/)
 ---
 
 ### 🛠️ Languages and Tools:
