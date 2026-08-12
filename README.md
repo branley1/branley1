@@ -63,21 +63,15 @@
 
 ---
 
-### My Stats:
+### Git Stats:
 
 <table>
   <tr">
-    <td>
-    <!-- GitHub streak stats -->
-      <a href="https://git.io/streak-stats">
-        <img src="https://streak-stats.demolab.com?user=branley1&theme=highcontrast&hide_border=true&date_format=M%20j%5B%2C%20Y%5D" alt="GitHub Streak">
-      </a>
+    <td> <!-- GitHub streak stats -->
+     <img src="https://streak-stats.demolab.com?user=branley1&theme=highcontrast&hide_border=true&date_format=M%20j%5B%2C%20Y%5D" alt="GitHub Streak">
     </td>
-    <td>
-    <!-- GitHub top language stats -->
-      <a href="https://github.com/anuraghazra/github-readme-stats">
-        <img src="https://github-readme-stats.vercel.app/api/top-langs/?username=branley1&theme=github_dark&hide_border=true&layout=compact" alt="Top Languages">
-      </a>
+    <td> <!-- GitHub top language stats -->
+      <img src="https://github-stats-extended.vercel.app/api/top-langs?username=branley1&layout=pie&hide_title=true&langs_count=6&theme=highcontrast&hide_border=true&hide_values=true">
     </td>
   </tr>
 </table>
